@@ -10,4 +10,4 @@ while a == True:
         cd.quit()
         cdrom.quit()
         time.sleep(5)
-        print "Troll"
+        print ("Troll")
