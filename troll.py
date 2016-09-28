@@ -1,7 +1,6 @@
-a = True
 import time
 
-while a == True:
+while True:
         import pygame.cdrom as cdrom
         cdrom.init()
         cd = cdrom.CD(0) # 0 = first cdrom device
